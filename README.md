@@ -32,7 +32,7 @@ It has multiple features:
 - Achieved a 0.0000000049 mean squared error (MSE) loss on our own test dataset
 - Made a nice video for our pitch ;)
 
-https://github.com/Suchit153/HackZurich/assets/73829218/4892cd23-7197-435d-8a2a-2dc036d37973
+https://github.com/Suchit153/HackZurich/assets/73829218/c0316ac7-c4d0-4a09-bca9-9efbfa87e27d
 
 ## 📚 What we learned
 - Split and assign the tasks early!
