@@ -1,6 +1,6 @@
 # EcoTrack - HackZurich 2023
 
-![devpost thumbnail ecotrack](https://github.com/Suchit153/HackZurich/assets/73829218/f2276d24-c6ab-4d6a-a7fb-246efbb82b02)
+![devpost thumbnail ecotrack](https://github.com/Suchit153/HackZurich/assets/73829218/9955c34d-cb22-41bf-980c-1b02683c2138)
 
 ## ✨ Inspiration
 We have had many painful experiences going through traffic jams on Swiss roads. In this hackathon, we wanted to think of a sustainable solution that could relieve the suffering of the driver and the passenger(s) or a way to reduce the congestion. Introducing: **EcoTrack** 🛣️
@@ -17,7 +17,7 @@ It has multiple features:
 - Tested different approaches and experimented with various error/loss functions to optimize our model
 - To make the solution accessible to users, we deployed an online user interface (UI) using modern web and mobile development technologies
 
-![image](https://github.com/Suchit153/HackZurich/assets/73829218/27beeb0d-d80d-4808-a91a-dd7ed284af91)
+![image](https://github.com/Suchit153/HackZurich/assets/73829218/1d44e2fa-cf7f-404b-b070-6c3381cd7e3a)
 
 ## ⚔️ Challenges we ran into
 - Extracting and cleaning the huge amount of data was challenging
@@ -32,7 +32,7 @@ It has multiple features:
 - Achieved a 0.0000000049 mean squared error (MSE) loss on our own test dataset
 - Made a nice video for our pitch ;)
 
-https://github.com/Suchit153/HackZurich/assets/73829218/ecf133ca-38b2-4331-988d-d95ec60b7b13
+https://github.com/Suchit153/HackZurich/assets/73829218/86bd6ed2-7786-4df9-84ad-ca4036dcb244
 
 ## 📚 What we learned
 - Split and assign the tasks early!
